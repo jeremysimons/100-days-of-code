@@ -1,12 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 11th October 2021 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Updated knowledge from HTML 3 to HMTL 5, the big difference is the complexity of web forms are much more in depth!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Completed https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
 
+Created a few VMs to work in instead of W10; fossaPup - too basic lots missing but so fast! Manjaro fantastic but slow in a VM, will create a multi boot scernario once settled on OS
+
+Evaluation: next time download example for here!!!
+
+
+
+!!! example logs below !!!
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
